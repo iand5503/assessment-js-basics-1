@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+gitHubDefinition = 'hosting platform for code management'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,23 +26,21 @@
 */
 
 //CODE HERE
-
+const gitInitDefinition = 'initialize a local repository'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
-
+const gitClosneDefinition = 'target an existing repository and clone it to a local machine
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
-
+const gitStatusDefinition = " show the \'git'\ status of an active directory
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -52,8 +50,8 @@
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
-
+const gitAddDefinition = 'add files to the staging area of your local repository'
+const gitAddCode = 'git add <file nam>'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -63,7 +61,9 @@
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+const gitCommitDefinition = 'captures a snapshot of the current project changes'
+const gitCommitCode = 'git commit -m "message text"'
+
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +73,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = ' command that transmits your local commits to the cloud repository'

@@ -27,6 +27,6 @@ console.log ('not lucky 13');
 /*
   Write a for loop that prints out your faveNum 5 times.
 */
-var i = (54);
 
-for (let i = 54; i === 54; i++);
+for (let i = 54; i < 5; i++);
+console.log(faveNum)
